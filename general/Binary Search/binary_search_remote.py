@@ -30,5 +30,3 @@ while True:
         lower_bound = n
     else:
         break
-
-# Flag: picoCTF{g00d_gu355_2e90d29b}
